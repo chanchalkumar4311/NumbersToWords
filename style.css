@@ -1,0 +1,32 @@
+body{
+
+    background-color: blueviolet;
+    padding: auto;
+}
+
+.title{
+   
+    color: rgba(221, 207, 207, 0.5);
+    font-family: Gill Sans, sans-serif;
+    background-color: rgba(0, 0, 0, 0.5) ;
+    padding:0px;
+}
+
+#demo{
+
+    color:rgba(226, 216, 213, 0.5);
+    font-family: Gill Sans, sans-serif;
+    font-size: x-large;
+}
+
+#myInput{
+
+    opacity: 0.4;
+    border-radius: 10px;
+    height: 3vh;
+    width:25vw;
+    color:rgb(0, 0, 0);
+    font-size: large;
+    text-align: center;
+    
+}
